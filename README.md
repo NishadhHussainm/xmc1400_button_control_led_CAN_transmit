@@ -48,7 +48,7 @@ This code is provided under an open-source license. Please refer to the LICENSE 
 
 ## Author
 
-- Nishadh Hussain 
+- Nishadh Hussain (https://github.com/NishadhHussainm)
 
 ## Contributing
 
